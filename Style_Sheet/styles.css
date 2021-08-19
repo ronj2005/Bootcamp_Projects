@@ -1,0 +1,33 @@
+.section {
+    background-color: lemonchiffon;
+  }
+  
+  .headers {
+    color: darkblue;
+  }
+  
+  #email {
+    background-color: goldenrod;
+  }
+  
+  #github {
+    background-color: lightsteelblue;
+  }
+  
+  #portfolio {
+    background-color: darkorange;
+  }
+  
+  .box {
+    background-color: darkorange;
+    margin: auto;
+    height: 200px;
+    width: 200px;
+  }
+
+  #box {
+    background-color: darkorange;
+    margin: auto;
+    height: 200px;
+    width: 200px;
+  }
